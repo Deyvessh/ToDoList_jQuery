@@ -7,3 +7,8 @@
     border-radius: 4px;
     box-shadow: 5px 5px 8px lightgray;
 }
+
+.color_lineThrough {
+    color: gray;
+    text-decoration: line-through;
+}
