@@ -54,7 +54,7 @@ input:focus {
     background: #f7f7f7;
     width: 360px;
     margin: 100px auto;
-    border-radius: 3px;
+    border-radius: 6px;
     box-shadow: 3px 3px 20px rgba(0, 0, 0, 0.1);
     transition-duration: 1s;
 }
